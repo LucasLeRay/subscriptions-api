@@ -1,0 +1,8 @@
+{
+  "body": "{\"service\":\"Netflix\",\"image\":\"hello.jpg\",\"recurrence\":\"MONTHLY\",\"payDay\":2,\"cost\":10.20}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

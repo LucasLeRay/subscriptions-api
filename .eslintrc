@@ -1,0 +1,12 @@
+{
+  "env": {
+    "jest": true
+  },
+  "extends": "airbnb-base",
+  "rules": {
+    "semi": 0,
+    "max-len": ["error", 80],
+    "arrow-parens": "off",
+    "import/prefer-default-export": "off"
+  }
+}
